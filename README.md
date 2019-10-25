@@ -19,3 +19,11 @@
 * patterns  ```. basic_patterns/patt1\2\3.c  with their screen shots```
 * DS codes ``` Includes queue,stack,postfix,expression tree. ```
 * quick, merge, topo, etc. ```sorting programs```
+
+
+
+
+### You can follow these tutorials for learning more about Data structure and algorithms:
+ - [topcoder] (https://www.topcoder.com/community/competitive-programming/tutorials)
+ - [hackerearth] (https://www.hackerearth.com/practice)
+ - [tutorialspoint] (https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
